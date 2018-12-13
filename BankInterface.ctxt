@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ sortAccounts()
+comment1.params=
+comment1.target=int\ size()
+comment2.params=a
+comment2.target=boolean\ insertNoDuplicates(Account)
+comment3.params=s
+comment3.target=void\ removeAccount(long)
+comment4.params=a
+comment4.target=void\ addAccount(Account)
+comment4.text=\n\ Adds\ an\ account\ to\ the\ array\ account\n\ Precondition\:\ a\ is\ an\ account\ object\n\ Postcondition\:\ the\ account\ is\ added\ to\ array\ \n\ at\ position\ numOfAccounts\ and\ that\ is\ incremented\n
+comment5.params=s
+comment5.target=Account\ search(long)
+comment5.text=\n\ Calls\ helper\ method\ to\ search\ through\ accounts\n\ Precondition\:\ s\ is\ a\ valid\ string\n\ Postcondition\:\ if\ binary\ search\ results\ in\ a\ -1\ \n\ the\ method\ does\ nothing\ but\ if\ it\ finds\ the\ \n\ id\ it\ returns\ the\ account\n
+comment6.params=s\ m
+comment6.target=void\ deposit(long,\ Money)
+comment6.text=\n\ Deposits\ Money\ m\ into\ account\ with\ id\ s\n\ Precondition\:\ m\ is\ the\ money\ amount\ to\ be\ deposited\n\ into\ the\ id\ (String\ s)\n\ Postcondition\:\ if\ the\ id\ is\ found,\ then\ the\ money\n\ is\ deposited\ into\ the\ account\n
+comment7.params=s\ m
+comment7.target=void\ withdraw(long,\ Money)
+comment7.text=\n\ Withdraws\ Money\ m\ from\ account\ with\ id\ s\n\ Precondition\:\ m\ is\ the\ money\ amount\ to\ be\ withdrawn\n\ from\ the\ accout\ with\ id\ s\n\ Postcondition\:\ if\ the\ id\ of\ string\ s\ is\ found,\ then\ the\n\ money\ is\ withdrawn\ from\ account\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Prints\ the\ accounts\ in\ order\ as\ a\ String\n\ Precondition\:\ none\n\ Postcondition\:\ returns\ all\ attributes\ formatted\ into\ a\ string\n
+numComments=9

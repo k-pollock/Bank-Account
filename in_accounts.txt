@@ -1,0 +1,8 @@
+Jenn Maldonado,56,38034,c,100
+Kayla Pollock,57,69956,s,2.3
+Alyssa Striano,33,45834,c,100
+Paul Maurantonio,666,25105,s,2.5
+Gina Corapi,4,36645,c,100
+Matt Maiale,4,70110,s,2.5
+Sebastiano Ricci,13,50450,c,100
+Kristen Dulovic,5,72300,s,1.9
